@@ -147,9 +147,6 @@ const zayeef = {
   <img src="https://raw.githubusercontent.com/Zayeefzahid/Zayeefzahid/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
 </p>
 
-> ⚠️ **Setup required:** This image only renders after you set up the snake GitHub Action.
-> Create `.github/workflows/snake.yml` in your `Zayeefzahid/Zayeefzahid` repo using
-> [Platane/snk](https://github.com/Platane/snk). It auto-runs daily.
 
 ---
 
