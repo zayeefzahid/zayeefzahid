@@ -245,7 +245,7 @@ $ focus --now
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayeefzahid&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayeefzahid&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41" 
     alt="Top Languages" 
   />
 </p>
