@@ -340,8 +340,6 @@ $ focus --now
   />
 </p>
 
-> ⚠️ **Setup required:** This image only renders after you set up the snake GitHub Action using `Platane/snk`.
-
 ---
 
 <!-- ============================ TROPHIES ============================ -->
